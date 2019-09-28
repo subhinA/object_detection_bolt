@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>60.jpg</filename>
+	<path>/home/subhin/Documents/nut_bolt/object_detection_demo-master/data/images/test/60.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>250</ymin>
+			<xmax>476</xmax>
+			<ymax>570</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>11.jpg</filename>
+	<path>/home/subhin/Documents/nut_bolt/object_detection_demo-master/data/images/train/11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>252</ymin>
+			<xmax>474</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>
